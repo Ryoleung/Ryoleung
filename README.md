@@ -40,9 +40,11 @@ I am currently studying for an Advanced Diploma in Business Information Technolo
 * **Development Tools:** Android Studio, Git, GitHub
 * **Business & Management:** E-commerce Operations, Inventory & Cost Control, Manpower Planning
 * **Soft Skills:** Leadership, Conflict Resolution, Interpersonal Communication
+* **Cybersecurity (Hands-on Learning):** TryHackMe (Completed Pre-Security, Rank: Top 20%)
 
 ---
 
 ### 🌐 Connect with Me
 * 💼 **LinkedIn:** [linkedin.com/in](https://www.linkedin.com/in/ryo-leung-01a4b0267)
 * 📧 **Email:** LeungCWRyo@gmail.com
+[https://tryhackme.com/p/leungcwryo](https://tryhackme.com/p/leungcwryo)
