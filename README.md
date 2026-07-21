@@ -2,7 +2,7 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Status-Transitioning_to_IT-blue?style=flat-square" alt="Status">
-  <img src="https://img.shields.io/badge/Focus-Business_IT_%26_Mobile_Dev-orange?style=flat-square" alt="Focus">
+  <img src="https://img.shields.io/badge/Focus-Business_IT_%26_orange?style=flat-square" alt="Focus">
   <img src="https://img.shields.io/badge/Location-Hong_Kong-red?style=flat-square" alt="Location">
 </p>
 
