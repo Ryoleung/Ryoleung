@@ -34,6 +34,7 @@ I am currently studying for an Advanced Diploma in Business Information Technolo
 
 ---
 
+
 ### 🛠️ Skills & Knowledge
 * **Programming Languages:** Kotlin, Python
 * **Core IT & Data:** Database Management, Big Data Analytics, Cloud Computing, Networking & Security
@@ -45,6 +46,6 @@ I am currently studying for an Advanced Diploma in Business Information Technolo
 ---
 
 ### 🌐 Connect with Me
-* 💼 **LinkedIn:** [linkedin.com/in](https://www.linkedin.com/in/ryo-leung-01a4b0267)
-* 📧 **Email:** LeungCWRyo@gmail.com
-[https://tryhackme.com/p/leungcwryo](https://tryhackme.com/p/leungcwryo)
+* 💼 **LinkedIn:** [linkedin.com/in/[你的LinkedIn網址]](https://linkedin.com/in/)
+* 📧 **Email:** [LeungCWRyo@gmail.com](mailto:LeungCWRyo@gmail.com)
+* 🛡️ **TryHackMe:** [tryhackme.com/p/leungcwryo](https://tryhackme.com/p/leungcwryo)
