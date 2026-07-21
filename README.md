@@ -29,8 +29,8 @@ I am currently studying for an Advanced Diploma in Business Information Technolo
 ---
 
 ### 🚀 Projects
-* 💱 **Money Exchange Android App:** A real-time currency conversion and exchange rate application built with Kotlin.
-* 🎮 **Letspin Android App:** An interactive mobile application featuring custom UI components.
+* 💱 [**Money Exchange Android App:**](https://github.com/Ryoleung/MoneyExchange-Android-App) A real-time currency conversion and exchange rate application built with Kotlin.
+* 📦 [**Letspin Android App:**](https://github.com/Ryoleung/letspin-android-app) An interactive mobile application featuring custom UI components.
 
 ---
 
